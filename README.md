@@ -12,7 +12,7 @@
 Esta função está sendo desenvolvida pela Minha equipe. estamos trabalhando todos os dias. e pensando em novos modelos, detalhes e Performance. para uma melhor experiência ao usar esta função no Discord.  **Mensagem atualizada em: 16/07/2022 de julho!**
   
   ---
-  
+   
   
   > ###### 📜 Description in Inglês
   >
