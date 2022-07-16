@@ -19,7 +19,7 @@ Esta função está sendo desenvolvida pela Minha equipe. estamos trabalhando to
   >
   
 This feature is being developed by My team. we are working everyday. and thinking about new models, details and Performance. for a better experience when using this feature on Discord. **Message updated on: 7/16/2022 July!**
-  
+    
   
 
 <br> 
